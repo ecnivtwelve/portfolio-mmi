@@ -1,120 +1,76 @@
 {
-    "title" : "Portfolio de Élie Copter",
-    "lastname": "Copter",
-    "firstname": "Élie",
-    "portrait" : "avatar.jpg",
-    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis ante in orci auctor pharetra. Duis interdum erat semper nunc faucibus maximus. Proin dapibus auctor sollicitudin. Nulla mattis volutpat enim, ac ultrices odio dignissim id. Morbi nisl nisi, consequat ut finibus non, convallis interdum velit. Maecenas congue diam dolor, non elementum ipsum tincidunt vel. Sed dui ipsum, finibus rhoncus sollicitudin sit amet, varius non nulla. Duis vestibulum facilisis ligula, vel bibendum mauris aliquam in. Etiam urna ligula, pharetra a dictum et, blandit nec leo. Donec consequat tincidunt nisi at consectetur.",
-    "cv" : "CV.pdf",
-    "trainings": [
-        {
-            "name" : "BUT Métiers du Multimédia et de l'Internet",
-            "school" : "IUT de Lannion, Université de Rennes",
-            "start" : 2023,
-            "end" : 2026
-        },
-        {
-            "name" : "Bac S, option Maths et Arts Plastiques",
-            "school" : "Lycée Félix Le Dantec( 22)",
-            "start" : 2023
-        }
-    ],
-    "interests": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    ],
-    "projects": [
-        {
-            "title": "Project 1 : Lorem ipsum dolor sit amet consecitur",
-            "context": "Lorem ipsum dolor sit amet consecitur",
-            "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
-            "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
-            "skills": [
-                "3D",
-                "Dev Web"
-            ],
-            "link" : "https://youtube.com",
-            "picture": "projet.jpg"
-        },
-        {
-            "title": "Project 2 : Lorem ipsum dolor sit amet consecitur",
-            "context": "Lorem ipsum dolor sit amet consecitur",
-            "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
-            "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
-            "skills": [
-                "Marketing",
-                "Comm"
-            ],
-            "link" : "https://youtube.com",
-            "picture": "projet.jpg"
-        },
-        {
-            "title": "Project 3 : Lorem ipsum dolor sit amet consecitur",
-            "context": "Lorem ipsum dolor sit amet consecitur",
-            "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
-            "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
-            "skills": [
-                "Réseaux sociaux",
-                "UI/UX",
-                "Entrepreneuriat"
-            ],
-            "link" : "https://youtube.com",
-            "picture": "projet.jpg"
-        },
-        {
-            "title": "Project 4 : Lorem ipsum dolor sit amet consecitur",
-            "context": "Lorem ipsum dolor sit amet consecitur",
-            "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
-            "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
-            "skills": [
-                "Anglais",
-                "Graphisme",
-                "Écriture multimédia"
-            ],
-            "link" : "https://youtube.com",
-            "picture": "projet.jpg"
-        }
-    ],
-    
-    "skills": [
-        {
-            "title": "Lorem ipsum dolor sit amet consecitur",
-            "description": "Lorem ipsum dolor sit amet consecitur",
-            "tools": [
-                "Lorem",
-                "Ipsum"
-            ],
-            "level": 3
-        },
-        {
-            "title": "Lorem ipsum dolor sit amet consecitur",
-            "description": "Lorem ipsum dolor sit amet consecitur",
-            "tools": [
-                "Lorem",
-                "Ipsum"
-            ],
-            "level": 4
-        },
-        {
-            "title": "Lorem ipsum dolor sit amet consecitur",
-            "description": "Lorem ipsum dolor sit amet consecitur",
-            "tools": [
-                "Lorem",
-                "Ipsum"
-            ],
-            "level": 5
-        }
-    ],
-    "contacts": [
-        {"name" : "Instagram", 
-        "url" : "https://instagram.com",
-        "icon" : "insta.svg"},
-        {"name" : "LinkedIn", 
-        "url" : "https://linkedin.com",
-        "icon" : "linkedin.svg"},
-        {"name" : "Mail", 
-        "url" : "mailto:elie.copter.titi@etudiant.univ-rennes.fr",
-        "icon" : "mail.svg"}
-    ]
+  "title": "Portfolio de Vince Linise",
+  "lastname": "Vinise",
+  "firstname": "Lincent",
+  "portrait": "avatar.jpg",
+  "intro": "J'ai 17 ans et je suis étudiant en BUT MMI à l'IUT de Lannion.",
+  "biography": "Je suis Vince LINISE, j'ai 17 ans et je suis étudiant en BUT MMI à l'IUT de Lannion. \n Un jour, lors de mon anniversaire, j'ai reçu quelque qui va changer ma vie à tout jamais : un ordinateur. Depuis ce jour là, j'ai compris un fait : le numérique est un monde qui me passionne ou l'on peut se construire, et j'aimerai y apporter mes briques en le découvrant jour après jour. \n Depuis, j'ai crée et contribué a de nombreux projets open-source, notamment pour mon association Papillon, chez qui je développe une application mobile pour les étudiants depuis 4 ans. \n Je maîtrise les langages HTML, CSS et JavaScript, et j’ai créé plusieurs sites web interactifs. Je suis également passionné de design numérique, mais j'apprécie également la production musicale, la vidéo et la photographie. Je cherche toujours à apprendre des nouvelles choses et je m'investis dans tout ce que j'entreprends.",
+  "cv": "CV.pdf",
+  "trainings": [
+    {
+      "name": "BUT Métiers du Multimédia et de l'Internet",
+      "school": "IUT de Lannion, Université de Rennes",
+      "start": 2024,
+      "end": 2027
+    },
+    {
+      "name": "Bac Général, Numérique et Sciences Informatiques, Anglais Monde Contemporain",
+      "school": "Lycée Bertrand d'Argentré (35)",
+      "start": 2021,
+      "end": 2024
+    }
+  ],
+  "interests": [
+    "Développement web et mobile",
+    "Design graphique et montage vidéo"
+  ],
+  "projects": [
+    {
+      "title": "Papillon",
+      "context": "La meilleure application de France",
+      "missions": ["Gérer une appli géniale", "Éliminer les bugs"],
+      "outputs": ["La meilleure appli de France"],
+      "skills": ["Dev mobile", "Dev Web"],
+      "link": "https://papillon.bzh",
+      "picture": "projet.jpg"
+    }
+  ],
+
+  "skills": [
+    {
+      "title": "Être génial",
+      "description": "Tout comme moi",
+      "tools": ["VSCode", "Figma"],
+      "level": 5
+    },
+    {
+      "title": "Être parfait",
+      "description": "Évidemment",
+      "tools": ["Discord", "LinkedIn"],
+      "level": 5
+    },
+    {
+      "title": "Être désagréable",
+      "description": "Impossible, je ne le suis pas",
+      "tools": ["En classe"],
+      "level": 0
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/vincelns_",
+      "icon": "insta.svg"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/vincelinise",
+      "icon": "linkedin.svg"
+    },
+    {
+      "name": "Mail",
+      "url": "mailto:contact@vincelinise.com",
+      "icon": "mail.svg"
+    }
+  ]
 }
